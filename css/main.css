@@ -133,7 +133,7 @@ html, body {
   position: relative;
   padding-top: 40px;
   background-color: var(--footer-bg);
-  background-image: url("./../../img/header/header-bg.jpg");
+  background-image: url("./../img/header/header-bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -145,7 +145,7 @@ html, body {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .header {
-    background-image: url("./../../img/header/header-bg@2x.jpg");
+    background-image: url("./../img/header/header-bg@2x.jpg");
   }
 }
 @media (max-width: 992px) {
